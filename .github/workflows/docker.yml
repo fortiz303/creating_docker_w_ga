@@ -3,8 +3,6 @@ name: Docker Push
 on:
   push
 
-name: ci
-
 jobs:
   ci:
     runs-on: ubuntu-latest
